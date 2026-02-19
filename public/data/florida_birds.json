@@ -1,0 +1,3486 @@
+[
+  {
+    "id": "black-bellied-whistling-duck",
+    "common": "Black-bellied Whistling-Duck",
+    "sci": "Dendrocygna autumnalis",
+    "family": "Anatidae"
+  },
+  {
+    "id": "fulvous-whistling-duck",
+    "common": "Fulvous Whistling-Duck",
+    "sci": "Dendrocygna bicolor",
+    "family": "Anatidae"
+  },
+  {
+    "id": "snow-goose",
+    "common": "Snow Goose",
+    "sci": "Anser caerulescens",
+    "family": "Anatidae"
+  },
+  {
+    "id": "ross-s-goose",
+    "common": "Ross's Goose",
+    "sci": "Anser rossii",
+    "family": "Anatidae"
+  },
+  {
+    "id": "greater-white-fronted-goose",
+    "common": "Greater White-fronted Goose",
+    "sci": "Anser albifrons",
+    "family": "Anatidae"
+  },
+  {
+    "id": "brant",
+    "common": "Brant",
+    "sci": "Branta bernicla",
+    "family": "Anatidae",
+    "status": "Review"
+  },
+  {
+    "id": "cackling-goose",
+    "common": "Cackling Goose",
+    "sci": "Branta hutchinsii",
+    "family": "Anatidae",
+    "status": "Review"
+  },
+  {
+    "id": "canada-goose",
+    "common": "Canada Goose",
+    "sci": "Branta canadensis",
+    "family": "Anatidae"
+  },
+  {
+    "id": "tundra-swan",
+    "common": "Tundra Swan",
+    "sci": "Cygnus columbianus",
+    "family": "Anatidae",
+    "status": "Review"
+  },
+  {
+    "id": "egyptian-goose",
+    "common": "Egyptian Goose",
+    "sci": "Alopochen aegyptiacus",
+    "family": "Anatidae",
+    "status": "Exotic"
+  },
+  {
+    "id": "muscovy-duck",
+    "common": "Muscovy Duck",
+    "sci": "Cairina moschata",
+    "family": "Anatidae",
+    "status": "Exotic"
+  },
+  {
+    "id": "wood-duck",
+    "common": "Wood Duck",
+    "sci": "Aix sponsa",
+    "family": "Anatidae"
+  },
+  {
+    "id": "blue-winged-teal",
+    "common": "Blue-winged Teal",
+    "sci": "Spatula discors",
+    "family": "Anatidae"
+  },
+  {
+    "id": "cinnamon-teal",
+    "common": "Cinnamon Teal",
+    "sci": "Spatula cyanoptera",
+    "family": "Anatidae"
+  },
+  {
+    "id": "northern-shoveler",
+    "common": "Northern Shoveler",
+    "sci": "Spatula clypeata",
+    "family": "Anatidae"
+  },
+  {
+    "id": "gadwall",
+    "common": "Gadwall",
+    "sci": "Mareca strepera",
+    "family": "Anatidae"
+  },
+  {
+    "id": "eurasian-wigeon",
+    "common": "Eurasian Wigeon",
+    "sci": "Mareca penelope",
+    "family": "Anatidae"
+  },
+  {
+    "id": "american-wigeon",
+    "common": "American Wigeon",
+    "sci": "Mareca americana",
+    "family": "Anatidae"
+  },
+  {
+    "id": "mallard",
+    "common": "Mallard",
+    "sci": "Anas platyrhynchos",
+    "family": "Anatidae"
+  },
+  {
+    "id": "american-black-duck",
+    "common": "American Black Duck",
+    "sci": "Anas rubripes",
+    "family": "Anatidae"
+  },
+  {
+    "id": "mottled-duck",
+    "common": "Mottled Duck",
+    "sci": "Anas fulvigula",
+    "family": "Anatidae"
+  },
+  {
+    "id": "white-cheeked-pintail",
+    "common": "White-cheeked Pintail",
+    "sci": "Anas bahamensis",
+    "family": "Anatidae",
+    "status": "Review"
+  },
+  {
+    "id": "northern-pintail",
+    "common": "Northern Pintail",
+    "sci": "Anas acuta",
+    "family": "Anatidae"
+  },
+  {
+    "id": "green-winged-teal",
+    "common": "Green-winged Teal",
+    "sci": "Anas crecca",
+    "family": "Anatidae"
+  },
+  {
+    "id": "green-winged-teal-common-teal",
+    "common": "Green-winged Teal “Common Teal\"",
+    "sci": "A.c. crecca",
+    "family": "Anatidae",
+    "status": "Review"
+  },
+  {
+    "id": "canvasback",
+    "common": "Canvasback",
+    "sci": "Aythya valisineria",
+    "family": "Anatidae"
+  },
+  {
+    "id": "redhead",
+    "common": "Redhead",
+    "sci": "Aythya americana",
+    "family": "Anatidae"
+  },
+  {
+    "id": "ring-necked-duck",
+    "common": "Ring-necked Duck",
+    "sci": "Aythya collaris",
+    "family": "Anatidae"
+  },
+  {
+    "id": "greater-scaup",
+    "common": "Greater Scaup",
+    "sci": "Aythya marila",
+    "family": "Anatidae"
+  },
+  {
+    "id": "lesser-scaup",
+    "common": "Lesser Scaup",
+    "sci": "Aythya affinis",
+    "family": "Anatidae"
+  },
+  {
+    "id": "king-eider",
+    "common": "King Eider",
+    "sci": "Somateria spectabilis",
+    "family": "Anatidae",
+    "status": "Review"
+  },
+  {
+    "id": "common-eider",
+    "common": "Common Eider",
+    "sci": "Somateria mollissima",
+    "family": "Anatidae"
+  },
+  {
+    "id": "harlequin-duck",
+    "common": "Harlequin Duck",
+    "sci": "Histrionicus histrionicus",
+    "family": "Anatidae",
+    "status": "Review"
+  },
+  {
+    "id": "surf-scoter",
+    "common": "Surf Scoter",
+    "sci": "Melanitta perspicillata",
+    "family": "Anatidae"
+  },
+  {
+    "id": "white-winged-scoter",
+    "common": "White-winged Scoter",
+    "sci": "Melanitta deglandi",
+    "family": "Anatidae"
+  },
+  {
+    "id": "black-scoter",
+    "common": "Black Scoter",
+    "sci": "Melanitta americana",
+    "family": "Anatidae"
+  },
+  {
+    "id": "long-tailed-duck",
+    "common": "Long-tailed Duck",
+    "sci": "Clangula hyemalis",
+    "family": "Anatidae"
+  },
+  {
+    "id": "bufflehead",
+    "common": "Bufflehead",
+    "sci": "Bucephala albeola",
+    "family": "Anatidae"
+  },
+  {
+    "id": "common-goldeneye",
+    "common": "Common Goldeneye",
+    "sci": "Bucephala clangula",
+    "family": "Anatidae"
+  },
+  {
+    "id": "hooded-merganser",
+    "common": "Hooded Merganser",
+    "sci": "Lophodytes cucullatus",
+    "family": "Anatidae"
+  },
+  {
+    "id": "common-merganser",
+    "common": "Common Merganser",
+    "sci": "Mergus merganser",
+    "family": "Anatidae",
+    "status": "Review"
+  },
+  {
+    "id": "red-breasted-merganser",
+    "common": "Red-breasted Merganser",
+    "sci": "Mergus serrator",
+    "family": "Anatidae"
+  },
+  {
+    "id": "masked-duck",
+    "common": "Masked Duck",
+    "sci": "Nomonyx dominicus",
+    "family": "Anatidae",
+    "status": "Review"
+  },
+  {
+    "id": "ruddy-duck",
+    "common": "Ruddy Duck",
+    "sci": "Oxyura jamaicensis",
+    "family": "Anatidae"
+  },
+  {
+    "id": "northern-bobwhite",
+    "common": "Northern Bobwhite",
+    "sci": "Colinus virginianus",
+    "family": "Odontophoridae"
+  },
+  {
+    "id": "wild-turkey",
+    "common": "Wild Turkey",
+    "sci": "Meleagris gallopavo",
+    "family": "Phasianidae"
+  },
+  {
+    "id": "american-flamingo",
+    "common": "American Flamingo",
+    "sci": "Phoenicopterus ruber",
+    "family": "Phoenicopteridae"
+  },
+  {
+    "id": "least-grebe",
+    "common": "Least Grebe",
+    "sci": "Tachybaptus dominicus",
+    "family": "Podicipedidae",
+    "status": "Review"
+  },
+  {
+    "id": "pied-billed-grebe",
+    "common": "Pied-billed Grebe",
+    "sci": "Podilymbus podiceps",
+    "family": "Podicipedidae"
+  },
+  {
+    "id": "horned-grebe",
+    "common": "Horned Grebe",
+    "sci": "Podiceps auritus",
+    "family": "Podicipedidae"
+  },
+  {
+    "id": "red-necked-grebe",
+    "common": "Red-necked Grebe",
+    "sci": "Podiceps grisegena",
+    "family": "Podicipedidae",
+    "status": "Review"
+  },
+  {
+    "id": "eared-grebe",
+    "common": "Eared Grebe",
+    "sci": "Podiceps nigricollis",
+    "family": "Podicipedidae"
+  },
+  {
+    "id": "western-grebe",
+    "common": "Western Grebe",
+    "sci": "Aechmophorus occidentalis",
+    "family": "Podicipedidae",
+    "status": "Review"
+  },
+  {
+    "id": "rock-pigeon",
+    "common": "Rock Pigeon",
+    "sci": "Columba livia",
+    "family": "Columbidae",
+    "status": "Exotic"
+  },
+  {
+    "id": "passenger-pigeon",
+    "common": "Passenger Pigeon",
+    "sci": "Ectopistes migratorius",
+    "family": "Columbidae",
+    "status": "Extinct"
+  },
+  {
+    "id": "scaly-naped-pigeon",
+    "common": "Scaly-naped Pigeon",
+    "sci": "Patagioenas squamosa",
+    "family": "Columbidae",
+    "status": "Review"
+  },
+  {
+    "id": "white-crowned-pigeon",
+    "common": "White-crowned Pigeon",
+    "sci": "Patagioenas leucocephala",
+    "family": "Columbidae"
+  },
+  {
+    "id": "band-tailed-pigeon",
+    "common": "Band-tailed Pigeon",
+    "sci": "Patagioenas fasciata",
+    "family": "Columbidae",
+    "status": "Review"
+  },
+  {
+    "id": "eurasian-collared-dove",
+    "common": "Eurasian Collared-Dove",
+    "sci": "Streptopelia decaocto",
+    "family": "Columbidae",
+    "status": "Exotic"
+  },
+  {
+    "id": "inca-dove",
+    "common": "Inca Dove",
+    "sci": "Columbina inca",
+    "family": "Columbidae",
+    "status": "Review"
+  },
+  {
+    "id": "common-ground-dove",
+    "common": "Common Ground-Dove",
+    "sci": "Columbina passerina",
+    "family": "Columbidae"
+  },
+  {
+    "id": "ruddy-quail-dove",
+    "common": "Ruddy Quail-Dove",
+    "sci": "Geotrygon montana",
+    "family": "Columbidae",
+    "status": "Review"
+  },
+  {
+    "id": "key-west-quail-dove",
+    "common": "Key West Quail-Dove",
+    "sci": "Geotrygon chrysia",
+    "family": "Columbidae",
+    "status": "Review"
+  },
+  {
+    "id": "white-tipped-dove",
+    "common": "White-tipped Dove",
+    "sci": "Leptotila verreauxi",
+    "family": "Columbidae",
+    "status": "Review"
+  },
+  {
+    "id": "white-winged-dove",
+    "common": "White-winged Dove",
+    "sci": "Zenaida asiatica",
+    "family": "Columbidae"
+  },
+  {
+    "id": "zenaida-dove",
+    "common": "Zenaida Dove",
+    "sci": "Zenaida aurita",
+    "family": "Columbidae",
+    "status": "Review"
+  },
+  {
+    "id": "mourning-dove",
+    "common": "Mourning Dove",
+    "sci": "Zenaida macroura",
+    "family": "Columbidae"
+  },
+  {
+    "id": "smooth-billed-ani",
+    "common": "Smooth-billed Ani",
+    "sci": "Crotophaga ani",
+    "family": "Cuculidae"
+  },
+  {
+    "id": "groove-billed-ani",
+    "common": "Groove-billed Ani",
+    "sci": "Crotophaga sulcirostris",
+    "family": "Cuculidae"
+  },
+  {
+    "id": "dark-billed-cuckoo",
+    "common": "Dark-billed Cuckoo",
+    "sci": "Coccyzus melacoryphus",
+    "family": "Cuculidae",
+    "status": "Review"
+  },
+  {
+    "id": "yellow-billed-cuckoo",
+    "common": "Yellow-billed Cuckoo",
+    "sci": "Coccyzus americanus",
+    "family": "Cuculidae"
+  },
+  {
+    "id": "mangrove-cuckoo",
+    "common": "Mangrove Cuckoo",
+    "sci": "Coccyzus minor",
+    "family": "Cuculidae"
+  },
+  {
+    "id": "black-billed-cuckoo",
+    "common": "Black-billed Cuckoo",
+    "sci": "Coccyzus erythropthalmus",
+    "family": "Cuculidae"
+  },
+  {
+    "id": "lesser-nighthawk",
+    "common": "Lesser Nighthawk",
+    "sci": "Chordeiles acutipennis",
+    "family": "Caprimulgidae"
+  },
+  {
+    "id": "common-nighthawk",
+    "common": "Common Nighthawk",
+    "sci": "Chordeiles minor",
+    "family": "Caprimulgidae"
+  },
+  {
+    "id": "antillean-nighthawk",
+    "common": "Antillean Nighthawk",
+    "sci": "Chordeiles gundlachii",
+    "family": "Caprimulgidae"
+  },
+  {
+    "id": "chuck-will-s-widow",
+    "common": "Chuck-will's-widow",
+    "sci": "Antrostomus carolinensis",
+    "family": "Caprimulgidae"
+  },
+  {
+    "id": "eastern-whip-poor-will",
+    "common": "Eastern Whip-poor-will",
+    "sci": "Antrostomus vociferus",
+    "family": "Caprimulgidae"
+  },
+  {
+    "id": "white-collared-swift",
+    "common": "White-collared Swift",
+    "sci": "Streptoprocne zonaris",
+    "family": "Apodidae",
+    "status": "Review"
+  },
+  {
+    "id": "chimney-swift",
+    "common": "Chimney Swift",
+    "sci": "Chaetura pelagica",
+    "family": "Apodidae"
+  },
+  {
+    "id": "vaux-s-swift",
+    "common": "Vaux's Swift",
+    "sci": "Chaetura vauxi",
+    "family": "Apodidae",
+    "status": "Review"
+  },
+  {
+    "id": "white-throated-swift",
+    "common": "White-throated Swift",
+    "sci": "Aeronautes saxatalis",
+    "family": "Apodidae",
+    "status": "Review"
+  },
+  {
+    "id": "antillean-palm-swift",
+    "common": "Antillean Palm-Swift",
+    "sci": "Tachornis phoenicobia",
+    "family": "Apodidae",
+    "status": "Review"
+  },
+  {
+    "id": "ruby-throated-hummingbird",
+    "common": "Ruby-throated Hummingbird",
+    "sci": "Archilochus colubris",
+    "family": "Trochilidae"
+  },
+  {
+    "id": "black-chinned-hummingbird",
+    "common": "Black-chinned Hummingbird",
+    "sci": "Archilochus alexandri",
+    "family": "Trochilidae"
+  },
+  {
+    "id": "bahama-woodstar",
+    "common": "Bahama Woodstar",
+    "sci": "Nesophlox evelynae",
+    "family": "Trochilidae",
+    "status": "Review"
+  },
+  {
+    "id": "anna-s-hummingbird",
+    "common": "Anna's Hummingbird",
+    "sci": "Calypte anna",
+    "family": "Trochilidae",
+    "status": "Review"
+  },
+  {
+    "id": "costa-s-hummingbird",
+    "common": "Costa’s Hummingbird",
+    "sci": "Calypte costae",
+    "family": "Trochilidae",
+    "status": "Review"
+  },
+  {
+    "id": "calliope-hummingbird",
+    "common": "Calliope Hummingbird",
+    "sci": "Selasphorus calliope",
+    "family": "Trochilidae",
+    "status": "Review"
+  },
+  {
+    "id": "rufous-hummingbird",
+    "common": "Rufous Hummingbird",
+    "sci": "Selasphorus rufus",
+    "family": "Trochilidae"
+  },
+  {
+    "id": "allen-s-hummingbird",
+    "common": "Allen's Hummingbird",
+    "sci": "Selasphorus sasin",
+    "family": "Trochilidae",
+    "status": "Review"
+  },
+  {
+    "id": "broad-tailed-hummingbird",
+    "common": "Broad-tailed Hummingbird",
+    "sci": "Selasphorus platycercus",
+    "family": "Trochilidae",
+    "status": "Review"
+  },
+  {
+    "id": "broad-billed-hummingbird",
+    "common": "Broad-billed Hummingbird",
+    "sci": "Cynanthus latirostris",
+    "family": "Trochilidae",
+    "status": "Review"
+  },
+  {
+    "id": "white-eared-hummingbird",
+    "common": "White-eared Hummingbird",
+    "sci": "Basilinna leucotis",
+    "family": "Trochilidae",
+    "status": "Review"
+  },
+  {
+    "id": "buff-bellied-hummingbird",
+    "common": "Buff-bellied Hummingbird",
+    "sci": "Amazilia yucatanensis",
+    "family": "Trochilidae"
+  },
+  {
+    "id": "king-rail",
+    "common": "King Rail",
+    "sci": "Rallus elegans",
+    "family": "Rallidae"
+  },
+  {
+    "id": "clapper-rail",
+    "common": "Clapper Rail",
+    "sci": "Rallus crepitans",
+    "family": "Rallidae"
+  },
+  {
+    "id": "virginia-rail",
+    "common": "Virginia Rail",
+    "sci": "Rallus limicola",
+    "family": "Rallidae"
+  },
+  {
+    "id": "sora",
+    "common": "Sora",
+    "sci": "Porzana carolina",
+    "family": "Rallidae"
+  },
+  {
+    "id": "common-gallinule",
+    "common": "Common Gallinule",
+    "sci": "Gallinula galeata",
+    "family": "Rallidae"
+  },
+  {
+    "id": "american-coot",
+    "common": "American Coot",
+    "sci": "Fulica americana",
+    "family": "Rallidae"
+  },
+  {
+    "id": "purple-gallinule",
+    "common": "Purple Gallinule",
+    "sci": "Porphyrio martinicus",
+    "family": "Rallidae"
+  },
+  {
+    "id": "purple-swamphen",
+    "common": "Purple Swamphen",
+    "sci": "Porphyrio porphyrio",
+    "family": "Rallidae",
+    "status": "Exotic"
+  },
+  {
+    "id": "yellow-rail",
+    "common": "Yellow Rail",
+    "sci": "Coturnicops noveboracensis",
+    "family": "Rallidae",
+    "status": "Review"
+  },
+  {
+    "id": "black-rail",
+    "common": "Black Rail",
+    "sci": "Laterallus jamaicensis",
+    "family": "Rallidae"
+  },
+  {
+    "id": "limpkin",
+    "common": "Limpkin",
+    "sci": "Aramus guarauna",
+    "family": "Aramidae"
+  },
+  {
+    "id": "sandhill-crane",
+    "common": "Sandhill Crane",
+    "sci": "Antigone canadensis",
+    "family": "Gruidae"
+  },
+  {
+    "id": "whooping-crane",
+    "common": "Whooping Crane",
+    "sci": "Grus americana",
+    "family": "Gruidae"
+  },
+  {
+    "id": "black-necked-stilt",
+    "common": "Black-necked Stilt",
+    "sci": "Himantopus mexicanus",
+    "family": "Recurvirostridae"
+  },
+  {
+    "id": "american-avocet",
+    "common": "American Avocet",
+    "sci": "Recurvirostra americana",
+    "family": "Recurvirostridae"
+  },
+  {
+    "id": "american-oystercatcher",
+    "common": "American Oystercatcher",
+    "sci": "Haematopus palliatus",
+    "family": "Haematopodidae"
+  },
+  {
+    "id": "black-bellied-plover",
+    "common": "Black-bellied Plover",
+    "sci": "Pluvialis squatarola",
+    "family": "Charadriidae"
+  },
+  {
+    "id": "american-golden-plover",
+    "common": "American Golden-Plover",
+    "sci": "Pluvialis dominica",
+    "family": "Charadriidae"
+  },
+  {
+    "id": "pacific-golden-plover",
+    "common": "Pacific Golden-Plover",
+    "sci": "Pluvialis fulva",
+    "family": "Charadriidae",
+    "status": "Review"
+  },
+  {
+    "id": "killdeer",
+    "common": "Killdeer",
+    "sci": "Charadrius vociferus",
+    "family": "Charadriidae"
+  },
+  {
+    "id": "semipalmated-plover",
+    "common": "Semipalmated Plover",
+    "sci": "Charadrius semipalmatus",
+    "family": "Charadriidae"
+  },
+  {
+    "id": "piping-plover",
+    "common": "Piping Plover",
+    "sci": "Charadrius melodus",
+    "family": "Charadriidae"
+  },
+  {
+    "id": "northern-lapwing",
+    "common": "Northern Lapwing",
+    "sci": "Vanellus vanellus",
+    "family": "Charadriidae",
+    "status": "Review"
+  },
+  {
+    "id": "lesser-sand-plover",
+    "common": "Lesser Sand-Plover",
+    "sci": "Anarhynchus mongolus",
+    "family": "Charadriidae",
+    "status": "Review"
+  },
+  {
+    "id": "greater-sand-plover",
+    "common": "Greater Sand-Plover",
+    "sci": "Anarhynchus leschenaultii",
+    "family": "Charadriidae",
+    "status": "Review"
+  },
+  {
+    "id": "wilson-s-plover",
+    "common": "Wilson's Plover",
+    "sci": "Anarhynchus wilsonia",
+    "family": "Charadriidae"
+  },
+  {
+    "id": "mountain-plover",
+    "common": "Mountain Plover",
+    "sci": "Anarhynchus montanus",
+    "family": "Charadriidae",
+    "status": "Review"
+  },
+  {
+    "id": "snowy-plover",
+    "common": "Snowy Plover",
+    "sci": "Anarhynchus nivosus",
+    "family": "Charadriidae"
+  },
+  {
+    "id": "upland-sandpiper",
+    "common": "Upland Sandpiper",
+    "sci": "Bartramia longicauda",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "whimbrel",
+    "common": "Whimbrel",
+    "sci": "Numenius phaeopus",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "long-billed-curlew",
+    "common": "Long-billed Curlew",
+    "sci": "Numenius americanus",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "bar-tailed-godwit",
+    "common": "Bar-tailed Godwit",
+    "sci": "Limosa lapponica",
+    "family": "Scolopacidae",
+    "status": "Review"
+  },
+  {
+    "id": "black-tailed-godwit",
+    "common": "Black-tailed Godwit",
+    "sci": "Limosa limosa",
+    "family": "Scolopacidae",
+    "status": "Review"
+  },
+  {
+    "id": "hudsonian-godwit",
+    "common": "Hudsonian Godwit",
+    "sci": "Limosa haemastica",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "marbled-godwit",
+    "common": "Marbled Godwit",
+    "sci": "Limosa fedoa",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "ruddy-turnstone",
+    "common": "Ruddy Turnstone",
+    "sci": "Arenaria interpres",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "red-knot",
+    "common": "Red Knot",
+    "sci": "Calidris canutus",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "surfbird",
+    "common": "Surfbird",
+    "sci": "Calidris virgata",
+    "family": "Scolopacidae",
+    "status": "Review"
+  },
+  {
+    "id": "ruff",
+    "common": "Ruff",
+    "sci": "Calidris pugnax",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "sharp-tailed-sandpiper",
+    "common": "Sharp-tailed Sandpiper",
+    "sci": "Calidris acuminata",
+    "family": "Scolopacidae",
+    "status": "Review"
+  },
+  {
+    "id": "stilt-sandpiper",
+    "common": "Stilt Sandpiper",
+    "sci": "Calidris himantopus",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "curlew-sandpiper",
+    "common": "Curlew Sandpiper",
+    "sci": "Calidris ferruginea",
+    "family": "Scolopacidae",
+    "status": "Review"
+  },
+  {
+    "id": "red-necked-stint",
+    "common": "Red-necked Stint",
+    "sci": "Calidris ruficollis",
+    "family": "Scolopacidae",
+    "status": "Review"
+  },
+  {
+    "id": "sanderling",
+    "common": "Sanderling",
+    "sci": "Calidris alba",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "dunlin",
+    "common": "Dunlin",
+    "sci": "Calidris alpina",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "purple-sandpiper",
+    "common": "Purple Sandpiper",
+    "sci": "Calidris maritima",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "baird-s-sandpiper",
+    "common": "Baird's Sandpiper",
+    "sci": "Calidris bairdii",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "least-sandpiper",
+    "common": "Least Sandpiper",
+    "sci": "Calidris minutilla",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "white-rumped-sandpiper",
+    "common": "White-rumped Sandpiper",
+    "sci": "Calidris fuscicollis",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "buff-breasted-sandpiper",
+    "common": "Buff-breasted Sandpiper",
+    "sci": "Calidris subruficollis",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "pectoral-sandpiper",
+    "common": "Pectoral Sandpiper",
+    "sci": "Calidris melanotos",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "semipalmated-sandpiper",
+    "common": "Semipalmated Sandpiper",
+    "sci": "Calidris pusilla",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "western-sandpiper",
+    "common": "Western Sandpiper",
+    "sci": "Calidris mauri",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "short-billed-dowitcher",
+    "common": "Short-billed Dowitcher",
+    "sci": "Limnodromus griseus",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "long-billed-dowitcher",
+    "common": "Long-billed Dowitcher",
+    "sci": "Limnodromus scolopaceus",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "american-woodcock",
+    "common": "American Woodcock",
+    "sci": "Scolopax minor",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "wilson-s-snipe",
+    "common": "Wilson's Snipe",
+    "sci": "Gallinago delicata",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "spotted-sandpiper",
+    "common": "Spotted Sandpiper",
+    "sci": "Actitis macularius",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "solitary-sandpiper",
+    "common": "Solitary Sandpiper",
+    "sci": "Tringa solitaria",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "gray-tailed-tattler",
+    "common": "Gray-tailed Tattler",
+    "sci": "Tringa brevipes",
+    "family": "Scolopacidae",
+    "status": "Review"
+  },
+  {
+    "id": "lesser-yellowlegs",
+    "common": "Lesser Yellowlegs",
+    "sci": "Tringa flavipes",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "willet",
+    "common": "Willet",
+    "sci": "Tringa semipalmata",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "common-greenshank",
+    "common": "Common Greenshank",
+    "sci": "Tringa nebularia",
+    "family": "Scolopacidae",
+    "status": "Review"
+  },
+  {
+    "id": "greater-yellowlegs",
+    "common": "Greater Yellowlegs",
+    "sci": "Tringa melanoleuca",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "wilson-s-phalarope",
+    "common": "Wilson's Phalarope",
+    "sci": "Phalaropus tricolor",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "red-necked-phalarope",
+    "common": "Red-necked Phalarope",
+    "sci": "Phalaropus lobatus",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "red-phalarope",
+    "common": "Red Phalarope",
+    "sci": "Phalaropus fulicarius",
+    "family": "Scolopacidae"
+  },
+  {
+    "id": "south-polar-skua",
+    "common": "South Polar Skua",
+    "sci": "Stercorarius maccormicki",
+    "family": "Stercorariidae",
+    "status": "Review"
+  },
+  {
+    "id": "pomarine-jaeger",
+    "common": "Pomarine Jaeger",
+    "sci": "Stercorarius pomarinus",
+    "family": "Stercorariidae"
+  },
+  {
+    "id": "parasitic-jaeger",
+    "common": "Parasitic Jaeger",
+    "sci": "Stercorarius parasiticus",
+    "family": "Stercorariidae"
+  },
+  {
+    "id": "long-tailed-jaeger",
+    "common": "Long-tailed Jaeger",
+    "sci": "Stercorarius longicaudus",
+    "family": "Stercorariidae"
+  },
+  {
+    "id": "dovekie",
+    "common": "Dovekie",
+    "sci": "Alle alle",
+    "family": "Alcidae",
+    "status": "Review"
+  },
+  {
+    "id": "common-murre",
+    "common": "Common Murre",
+    "sci": "Uria aalge",
+    "family": "Alcidae",
+    "status": "Review"
+  },
+  {
+    "id": "thick-billed-murre",
+    "common": "Thick-billed Murre",
+    "sci": "Uria lomvia",
+    "family": "Alcidae",
+    "status": "Review"
+  },
+  {
+    "id": "razorbill",
+    "common": "Razorbill",
+    "sci": "Alca torda",
+    "family": "Alcidae",
+    "status": "Review"
+  },
+  {
+    "id": "black-guillemot",
+    "common": "Black Guillemot",
+    "sci": "Cepphus grylle",
+    "family": "Alcidae",
+    "status": "Review"
+  },
+  {
+    "id": "long-billed-murrelet",
+    "common": "Long-billed Murrelet",
+    "sci": "Brachyramphus perdix",
+    "family": "Alcidae",
+    "status": "Review"
+  },
+  {
+    "id": "ancient-murrelet",
+    "common": "Ancient Murrelet",
+    "sci": "Synthliboramphus antiquus",
+    "family": "Alcidae",
+    "status": "Review"
+  },
+  {
+    "id": "atlantic-puffin",
+    "common": "Atlantic Puffin",
+    "sci": "Fratercula arctica",
+    "family": "Alcidae",
+    "status": "Review"
+  },
+  {
+    "id": "black-legged-kittiwake",
+    "common": "Black-legged Kittiwake",
+    "sci": "Rissa tridactyla",
+    "family": "Laridae"
+  },
+  {
+    "id": "sabine-s-gull",
+    "common": "Sabine's Gull",
+    "sci": "Xema sabini",
+    "family": "Laridae"
+  },
+  {
+    "id": "bonaparte-s-gull",
+    "common": "Bonaparte's Gull",
+    "sci": "Chroicocephalus philadelphia",
+    "family": "Laridae"
+  },
+  {
+    "id": "gray-hooded-gull",
+    "common": "Gray-hooded Gull",
+    "sci": "Chroicocephalus cirrocephalus",
+    "family": "Laridae",
+    "status": "Review"
+  },
+  {
+    "id": "black-headed-gull",
+    "common": "Black-headed Gull",
+    "sci": "Chroicocephalus ridibundus",
+    "family": "Laridae",
+    "status": "Review"
+  },
+  {
+    "id": "little-gull",
+    "common": "Little Gull",
+    "sci": "Hydrocoloeus minutus",
+    "family": "Laridae",
+    "status": "Review"
+  },
+  {
+    "id": "gray-gull",
+    "common": "Gray Gull",
+    "sci": "Leucophaeus modestus",
+    "family": "Laridae",
+    "status": "Review"
+  },
+  {
+    "id": "laughing-gull",
+    "common": "Laughing Gull",
+    "sci": "Leucophaeus atricilla",
+    "family": "Laridae"
+  },
+  {
+    "id": "franklin-s-gull",
+    "common": "Franklin's Gull",
+    "sci": "Leucophaeus pipixcan",
+    "family": "Laridae"
+  },
+  {
+    "id": "belcher-s-gull",
+    "common": "Belcher's Gull",
+    "sci": "Larus belcheri",
+    "family": "Laridae",
+    "status": "Review"
+  },
+  {
+    "id": "black-tailed-gull",
+    "common": "Black-tailed Gull",
+    "sci": "Larus crassirostris",
+    "family": "Laridae",
+    "status": "Review"
+  },
+  {
+    "id": "heermann-s-gull",
+    "common": "Heermann's Gull",
+    "sci": "Larus heermanni",
+    "family": "Laridae",
+    "status": "Review"
+  },
+  {
+    "id": "ring-billed-gull",
+    "common": "Ring-billed Gull",
+    "sci": "Larus delawarensis",
+    "family": "Laridae"
+  },
+  {
+    "id": "california-gull",
+    "common": "California Gull",
+    "sci": "Larus californicus",
+    "family": "Laridae",
+    "status": "Review"
+  },
+  {
+    "id": "herring-gull",
+    "common": "Herring Gull",
+    "sci": "Larus argentatus",
+    "family": "Laridae"
+  },
+  {
+    "id": "iceland-gull",
+    "common": "Iceland Gull",
+    "sci": "Larus glaucoides",
+    "family": "Laridae"
+  },
+  {
+    "id": "lesser-black-backed-gull",
+    "common": "Lesser Black-backed Gull",
+    "sci": "Larus fuscus",
+    "family": "Laridae"
+  },
+  {
+    "id": "slaty-backed-gull",
+    "common": "Slaty-backed Gull",
+    "sci": "Larus schistisagus",
+    "family": "Laridae",
+    "status": "Review"
+  },
+  {
+    "id": "glaucous-gull",
+    "common": "Glaucous Gull",
+    "sci": "Larus hyperboreus",
+    "family": "Laridae"
+  },
+  {
+    "id": "great-black-backed-gull",
+    "common": "Great Black-backed Gull",
+    "sci": "Larus marinus",
+    "family": "Laridae"
+  },
+  {
+    "id": "kelp-gull",
+    "common": "Kelp Gull",
+    "sci": "Larus dominicanus",
+    "family": "Laridae",
+    "status": "Review"
+  },
+  {
+    "id": "brown-noddy",
+    "common": "Brown Noddy",
+    "sci": "Anous stolidus",
+    "family": "Laridae"
+  },
+  {
+    "id": "black-noddy",
+    "common": "Black Noddy",
+    "sci": "Anous minutus",
+    "family": "Laridae"
+  },
+  {
+    "id": "sooty-tern",
+    "common": "Sooty Tern",
+    "sci": "Onychoprion fuscata",
+    "family": "Laridae"
+  },
+  {
+    "id": "bridled-tern",
+    "common": "Bridled Tern",
+    "sci": "Onychoprion anaethetus",
+    "family": "Laridae"
+  },
+  {
+    "id": "least-tern",
+    "common": "Least Tern",
+    "sci": "Sternula antillarum",
+    "family": "Laridae"
+  },
+  {
+    "id": "large-billed-tern",
+    "common": "Large-billed Tern",
+    "sci": "Phaetusa simplex",
+    "family": "Laridae",
+    "status": "Review"
+  },
+  {
+    "id": "gull-billed-tern",
+    "common": "Gull-billed Tern",
+    "sci": "Gelochelidon nilotica",
+    "family": "Laridae"
+  },
+  {
+    "id": "caspian-tern",
+    "common": "Caspian Tern",
+    "sci": "Hydroprogne caspia",
+    "family": "Laridae"
+  },
+  {
+    "id": "black-tern",
+    "common": "Black Tern",
+    "sci": "Chlidonias niger",
+    "family": "Laridae"
+  },
+  {
+    "id": "roseate-tern",
+    "common": "Roseate Tern",
+    "sci": "Sterna dougallii",
+    "family": "Laridae"
+  },
+  {
+    "id": "common-tern",
+    "common": "Common Tern",
+    "sci": "Sterna hirundo",
+    "family": "Laridae"
+  },
+  {
+    "id": "arctic-tern",
+    "common": "Arctic Tern",
+    "sci": "Sterna paradisaea",
+    "family": "Laridae"
+  },
+  {
+    "id": "forster-s-tern",
+    "common": "Forster's Tern",
+    "sci": "Sterna forsteri",
+    "family": "Laridae"
+  },
+  {
+    "id": "royal-tern",
+    "common": "Royal Tern",
+    "sci": "Thalasseus maxima",
+    "family": "Laridae"
+  },
+  {
+    "id": "sandwich-tern",
+    "common": "Sandwich Tern",
+    "sci": "Thalasseus sandvicensis",
+    "family": "Laridae"
+  },
+  {
+    "id": "elegant-tern",
+    "common": "Elegant Tern",
+    "sci": "Thalasseus elegans",
+    "family": "Laridae",
+    "status": "Review"
+  },
+  {
+    "id": "black-skimmer",
+    "common": "Black Skimmer",
+    "sci": "Rynchops niger",
+    "family": "Laridae"
+  },
+  {
+    "id": "white-tailed-tropicbird",
+    "common": "White-tailed Tropicbird",
+    "sci": "Phaethon lepturus",
+    "family": "Phaethontidae"
+  },
+  {
+    "id": "red-billed-tropicbird",
+    "common": "Red-billed Tropicbird",
+    "sci": "Phaethon aethereus",
+    "family": "Phaethontidae",
+    "status": "Review"
+  },
+  {
+    "id": "red-throated-loon",
+    "common": "Red-throated Loon",
+    "sci": "Gavia stellata",
+    "family": "Gaviidae"
+  },
+  {
+    "id": "pacific-loon",
+    "common": "Pacific Loon",
+    "sci": "Gavia pacifica",
+    "family": "Gaviidae",
+    "status": "Review"
+  },
+  {
+    "id": "common-loon",
+    "common": "Common Loon",
+    "sci": "Gavia immer",
+    "family": "Gaviidae"
+  },
+  {
+    "id": "yellow-nosed-albatross",
+    "common": "Yellow-nosed Albatross",
+    "sci": "Thalassarche chlororhynchos",
+    "family": "Diomedeidae",
+    "status": "Review"
+  },
+  {
+    "id": "wilson-s-storm-petrel",
+    "common": "Wilson's Storm-Petrel",
+    "sci": "Oceanites oceanicus",
+    "family": "Oceanitidae"
+  },
+  {
+    "id": "european-storm-petrel",
+    "common": "European Storm-Petrel",
+    "sci": "Hydrobates pelagicus",
+    "family": "Hydrobatidae",
+    "status": "Review"
+  },
+  {
+    "id": "leach-s-storm-petrel",
+    "common": "Leach's Storm-Petrel",
+    "sci": "Oceanodroma leucorhoa",
+    "family": "Hydrobatidae"
+  },
+  {
+    "id": "band-rumped-storm-petrel",
+    "common": "Band-rumped Storm-Petrel",
+    "sci": "Oceanodroma castro",
+    "family": "Hydrobatidae"
+  },
+  {
+    "id": "northern-fulmar",
+    "common": "Northern Fulmar",
+    "sci": "Fulmarus glacialis",
+    "family": "Procellariidae",
+    "status": "Review"
+  },
+  {
+    "id": "black-capped-petrel",
+    "common": "Black-capped Petrel",
+    "sci": "Pterodroma hasitata",
+    "family": "Procellariidae"
+  },
+  {
+    "id": "fea-s-petrel",
+    "common": "Fea’s Petrel",
+    "sci": "Pterodroma feae",
+    "family": "Procellariidae",
+    "status": "Review"
+  },
+  {
+    "id": "bulwer-s-petrel",
+    "common": "Bulwer’s Petrel",
+    "sci": "Bulweria bulwerii",
+    "family": "Procellariidae",
+    "status": "Review"
+  },
+  {
+    "id": "cory-s-shearwater",
+    "common": "Cory's Shearwater",
+    "sci": "Calonectris diomedea",
+    "family": "Procellariidae"
+  },
+  {
+    "id": "wedge-tailed-shearwater",
+    "common": "Wedge-tailed Shearwater",
+    "sci": "Ardenna pacifica",
+    "family": "Procellariidae",
+    "status": "Review"
+  },
+  {
+    "id": "short-tailed-shearwater",
+    "common": "Short-tailed Shearwater",
+    "sci": "Ardenna tenuirostris",
+    "family": "Procellariidae",
+    "status": "Review"
+  },
+  {
+    "id": "sooty-shearwater",
+    "common": "Sooty Shearwater",
+    "sci": "Ardenna griseus",
+    "family": "Procellariidae"
+  },
+  {
+    "id": "great-shearwater",
+    "common": "Great Shearwater",
+    "sci": "Ardenna gravis",
+    "family": "Procellariidae"
+  },
+  {
+    "id": "manx-shearwater",
+    "common": "Manx Shearwater",
+    "sci": "Puffinus puffinus",
+    "family": "Procellariidae",
+    "status": "Review"
+  },
+  {
+    "id": "sargasso-shearwater",
+    "common": "Sargasso Shearwater",
+    "sci": "Puffinus lherminieri",
+    "family": "Procellariidae"
+  },
+  {
+    "id": "wood-stork",
+    "common": "Wood Stork",
+    "sci": "Mycteria americana",
+    "family": "Ciconiidae"
+  },
+  {
+    "id": "magnificent-frigatebird",
+    "common": "Magnificent Frigatebird",
+    "sci": "Fregata magnificens",
+    "family": "Fregatidae"
+  },
+  {
+    "id": "masked-booby",
+    "common": "Masked Booby",
+    "sci": "Sula dactylatra",
+    "family": "Sulidae"
+  },
+  {
+    "id": "brown-booby",
+    "common": "Brown Booby",
+    "sci": "Sula leucogaster",
+    "family": "Sulidae"
+  },
+  {
+    "id": "red-footed-booby",
+    "common": "Red-footed Booby",
+    "sci": "Sula sula",
+    "family": "Sulidae",
+    "status": "Review"
+  },
+  {
+    "id": "northern-gannet",
+    "common": "Northern Gannet",
+    "sci": "Morus bassanus",
+    "family": "Sulidae"
+  },
+  {
+    "id": "anhinga",
+    "common": "Anhinga",
+    "sci": "Anhinga anhinga",
+    "family": "Anhingidae"
+  },
+  {
+    "id": "great-cormorant",
+    "common": "Great Cormorant",
+    "sci": "Phalacrocorax carbo",
+    "family": "Phalacrocoracidae",
+    "status": "Review"
+  },
+  {
+    "id": "double-crested-cormorant",
+    "common": "Double-crested Cormorant",
+    "sci": "Phalacrocorax auritus",
+    "family": "Phalacrocoracidae"
+  },
+  {
+    "id": "neotropic-cormorant",
+    "common": "Neotropic Cormorant",
+    "sci": "Phalacrocorax brasilianus",
+    "family": "Phalacrocoracidae"
+  },
+  {
+    "id": "american-white-pelican",
+    "common": "American White Pelican",
+    "sci": "Pelecanus erythrorhynchos",
+    "family": "Pelecanidae"
+  },
+  {
+    "id": "brown-pelican",
+    "common": "Brown Pelican",
+    "sci": "Pelecanus occidentalis",
+    "family": "Pelecanidae"
+  },
+  {
+    "id": "great-white-pelican",
+    "common": "Great White Pelican",
+    "sci": "Pelecanus oncrotalus",
+    "family": "Pelecanidae",
+    "status": "Review"
+  },
+  {
+    "id": "least-bittern",
+    "common": "Least Bittern",
+    "sci": "Botaurus exilis",
+    "family": "Ardeidae"
+  },
+  {
+    "id": "american-bittern",
+    "common": "American Bittern",
+    "sci": "Botaurus lentiginosus",
+    "family": "Ardeidae"
+  },
+  {
+    "id": "little-blue-heron",
+    "common": "Little Blue Heron",
+    "sci": "Egretta caerulea",
+    "family": "Ardeidae"
+  },
+  {
+    "id": "tricolored-heron",
+    "common": "Tricolored Heron",
+    "sci": "Egretta tricolor",
+    "family": "Ardeidae"
+  },
+  {
+    "id": "reddish-egret",
+    "common": "Reddish Egret",
+    "sci": "Egretta rufescens",
+    "family": "Ardeidae"
+  },
+  {
+    "id": "snowy-egret",
+    "common": "Snowy Egret",
+    "sci": "Egretta thula",
+    "family": "Ardeidae"
+  },
+  {
+    "id": "yellow-crowned-night-heron",
+    "common": "Yellow-crowned Night-Heron",
+    "sci": "Nyctanassa violacea",
+    "family": "Ardeidae"
+  },
+  {
+    "id": "black-crowned-night-heron",
+    "common": "Black-crowned Night-Heron",
+    "sci": "Nycticorax nycticorax",
+    "family": "Ardeidae"
+  },
+  {
+    "id": "green-heron",
+    "common": "Green Heron",
+    "sci": "Butorides virescens",
+    "family": "Ardeidae"
+  },
+  {
+    "id": "great-egret",
+    "common": "Great Egret",
+    "sci": "Ardea alba",
+    "family": "Ardeidae"
+  },
+  {
+    "id": "western-cattle-egret",
+    "common": "Western Cattle-Egret",
+    "sci": "Ardea ibis",
+    "family": "Ardeidae"
+  },
+  {
+    "id": "great-blue-heron",
+    "common": "Great Blue Heron",
+    "sci": "Ardea herodias",
+    "family": "Ardeidae"
+  },
+  {
+    "id": "white-ibis",
+    "common": "White Ibis",
+    "sci": "Eudocimus albus",
+    "family": "Threskiornithidae"
+  },
+  {
+    "id": "scarlet-ibis",
+    "common": "Scarlet Ibis",
+    "sci": "Eudocimus ruber",
+    "family": "Threskiornithidae",
+    "status": "Review"
+  },
+  {
+    "id": "glossy-ibis",
+    "common": "Glossy Ibis",
+    "sci": "Plegadis falcinellus",
+    "family": "Threskiornithidae"
+  },
+  {
+    "id": "white-faced-ibis",
+    "common": "White-faced Ibis",
+    "sci": "Plegadis chihi",
+    "family": "Threskiornithidae"
+  },
+  {
+    "id": "roseate-spoonbill",
+    "common": "Roseate Spoonbill",
+    "sci": "Platalea ajaja",
+    "family": "Threskiornithidae",
+    "bestSpot": "Fort Island Trail"
+  },
+  {
+    "id": "black-vulture",
+    "common": "Black Vulture",
+    "sci": "Coragyps atratus",
+    "family": "Cathartidae"
+  },
+  {
+    "id": "turkey-vulture",
+    "common": "Turkey Vulture",
+    "sci": "Cathartes aura",
+    "family": "Cathartidae"
+  },
+  {
+    "id": "osprey",
+    "common": "Osprey",
+    "sci": "Pandion haliaetus",
+    "family": "Pandionidae",
+    "bestSpot": "Crystal River"
+  },
+  {
+    "id": "white-tailed-kite",
+    "common": "White-tailed Kite",
+    "sci": "Elanus leucurus",
+    "family": "Accipitridae"
+  },
+  {
+    "id": "swallow-tailed-kite",
+    "common": "Swallow-tailed Kite",
+    "sci": "Elanoides forficatus",
+    "family": "Accipitridae",
+    "bestSpot": "Goethe Forest"
+  },
+  {
+    "id": "golden-eagle",
+    "common": "Golden Eagle",
+    "sci": "Aquila chrysaetos",
+    "family": "Accipitridae",
+    "status": "Review"
+  },
+  {
+    "id": "double-toothed-kite",
+    "common": "Double-toothed Kite",
+    "sci": "Harpagus bidentatus",
+    "family": "Accipitridae",
+    "status": "Review"
+  },
+  {
+    "id": "northern-harrier",
+    "common": "Northern Harrier",
+    "sci": "Circus hudsonius",
+    "family": "Accipitridae"
+  },
+  {
+    "id": "sharp-shinned-hawk",
+    "common": "Sharp-shinned Hawk",
+    "sci": "Accipiter striatus",
+    "family": "Accipitridae"
+  },
+  {
+    "id": "cooper-s-hawk",
+    "common": "Cooper's Hawk",
+    "sci": "Accipiter cooperii",
+    "family": "Accipitridae"
+  },
+  {
+    "id": "gundalch-s-hawk",
+    "common": "Gundalch’s Hawk",
+    "sci": "Accipiter gundlachii",
+    "family": "Accipitridae",
+    "status": "Review"
+  },
+  {
+    "id": "american-goshawk",
+    "common": "American Goshawk",
+    "sci": "Accipiter gentilis",
+    "family": "Accipitridae",
+    "status": "Review"
+  },
+  {
+    "id": "bald-eagle",
+    "common": "Bald Eagle",
+    "sci": "Haliaeetus leucocephalus",
+    "family": "Accipitridae",
+    "bestSpot": "Lake Rousseau"
+  },
+  {
+    "id": "mississippi-kite",
+    "common": "Mississippi Kite",
+    "sci": "Ictinia mississippiensis",
+    "family": "Accipitridae"
+  },
+  {
+    "id": "snail-kite",
+    "common": "Snail Kite",
+    "sci": "Rostrhamus sociabilis",
+    "family": "Accipitridae",
+    "bestSpot": "Paynes Prairie (La Chua)"
+  },
+  {
+    "id": "red-shouldered-hawk",
+    "common": "Red-shouldered Hawk",
+    "sci": "Buteo lineatus",
+    "family": "Accipitridae"
+  },
+  {
+    "id": "broad-winged-hawk",
+    "common": "Broad-winged Hawk",
+    "sci": "Buteo platypterus",
+    "family": "Accipitridae"
+  },
+  {
+    "id": "short-tailed-hawk",
+    "common": "Short-tailed Hawk",
+    "sci": "Buteo brachyurus",
+    "family": "Accipitridae"
+  },
+  {
+    "id": "swainson-s-hawk",
+    "common": "Swainson's Hawk",
+    "sci": "Buteo swainsoni",
+    "family": "Accipitridae"
+  },
+  {
+    "id": "zone-tailed-hawk",
+    "common": "Zone-tailed Hawk",
+    "sci": "Buteo albonotatus",
+    "family": "Accipitridae",
+    "status": "Review"
+  },
+  {
+    "id": "red-tailed-hawk",
+    "common": "Red-tailed Hawk",
+    "sci": "Buteo jamaicensis",
+    "family": "Accipitridae"
+  },
+  {
+    "id": "red-tailed-hawk-harlan-s-hawk",
+    "common": "Red-tailed Hawk “Harlan’s Hawk”",
+    "sci": "Buteo jamaicensis harlani",
+    "family": "Accipitridae",
+    "status": "Review"
+  },
+  {
+    "id": "rough-legged-hawk",
+    "common": "Rough-legged Hawk",
+    "sci": "Buteo lagopus",
+    "family": "Accipitridae",
+    "status": "Review"
+  },
+  {
+    "id": "ferruginous-hawk",
+    "common": "Ferruginous Hawk",
+    "sci": "Buteo regalis",
+    "family": "Accipitridae",
+    "status": "Review"
+  },
+  {
+    "id": "american-barn-owl",
+    "common": "American Barn Owl",
+    "sci": "Tyto alba",
+    "family": "Tytonidae"
+  },
+  {
+    "id": "flammulated-owl",
+    "common": "Flammulated Owl",
+    "sci": "Psiloscops flammeolus",
+    "family": "Strigidae",
+    "status": "Review"
+  },
+  {
+    "id": "eastern-screech-owl",
+    "common": "Eastern Screech-Owl",
+    "sci": "Megascops asio",
+    "family": "Strigidae"
+  },
+  {
+    "id": "great-horned-owl",
+    "common": "Great Horned Owl",
+    "sci": "Bubo virginianus",
+    "family": "Strigidae"
+  },
+  {
+    "id": "snowy-owl",
+    "common": "Snowy Owl",
+    "sci": "Bubo scandiaca",
+    "family": "Strigidae",
+    "status": "Review"
+  },
+  {
+    "id": "burrowing-owl",
+    "common": "Burrowing Owl",
+    "sci": "Athene cunicularia",
+    "family": "Strigidae",
+    "bestSpot": "Cape Coral (trip)"
+  },
+  {
+    "id": "barred-owl",
+    "common": "Barred Owl",
+    "sci": "Strix varia",
+    "family": "Strigidae"
+  },
+  {
+    "id": "long-eared-owl",
+    "common": "Long-eared Owl",
+    "sci": "Asio otus",
+    "family": "Strigidae",
+    "status": "Review"
+  },
+  {
+    "id": "stygian-owl",
+    "common": "Stygian Owl",
+    "sci": "Asio stygius",
+    "family": "Strigidae",
+    "status": "Review"
+  },
+  {
+    "id": "short-eared-owl",
+    "common": "Short-eared Owl",
+    "sci": "Asio flammeus",
+    "family": "Strigidae"
+  },
+  {
+    "id": "northern-saw-whet-owl",
+    "common": "Northern Saw-whet Owl",
+    "sci": "Aegolius acadicus",
+    "family": "Strigidae",
+    "status": "Review"
+  },
+  {
+    "id": "belted-kingfisher",
+    "common": "Belted Kingfisher",
+    "sci": "Megaceryle alcyon",
+    "family": "Alcedinidae"
+  },
+  {
+    "id": "red-headed-woodpecker",
+    "common": "Red-headed Woodpecker",
+    "sci": "Melanerpes erythrocephalus",
+    "family": "Picidae"
+  },
+  {
+    "id": "golden-fronted-woodpecker",
+    "common": "Golden-fronted Woodpecker",
+    "sci": "Melanerpes aurifrons",
+    "family": "Picidae",
+    "status": "Review"
+  },
+  {
+    "id": "red-bellied-woodpecker",
+    "common": "Red-bellied Woodpecker",
+    "sci": "Melanerpes carolinus",
+    "family": "Picidae"
+  },
+  {
+    "id": "yellow-bellied-sapsucker",
+    "common": "Yellow-bellied Sapsucker",
+    "sci": "Sphyrapicus varius",
+    "family": "Picidae"
+  },
+  {
+    "id": "downy-woodpecker",
+    "common": "Downy Woodpecker",
+    "sci": "Dryobates pubescens",
+    "family": "Picidae"
+  },
+  {
+    "id": "red-cockaded-woodpecker",
+    "common": "Red-cockaded Woodpecker",
+    "sci": "Dryobates borealis",
+    "family": "Picidae"
+  },
+  {
+    "id": "hairy-woodpecker",
+    "common": "Hairy Woodpecker",
+    "sci": "Dryobates villosus",
+    "family": "Picidae"
+  },
+  {
+    "id": "northern-flicker",
+    "common": "Northern Flicker",
+    "sci": "Colaptes auratus",
+    "family": "Picidae"
+  },
+  {
+    "id": "pileated-woodpecker",
+    "common": "Pileated Woodpecker",
+    "sci": "Dryocopus pileatus",
+    "family": "Picidae"
+  },
+  {
+    "id": "ivory-billed-woodpecker",
+    "common": "Ivory-billed Woodpecker",
+    "sci": "Campephilus principalis",
+    "family": "Picidae",
+    "status": "Extinct"
+  },
+  {
+    "id": "crested-caracara",
+    "common": "Crested Caracara",
+    "sci": "Caracara cheriway",
+    "family": "Falconidae"
+  },
+  {
+    "id": "yellow-headed-caracara",
+    "common": "Yellow-headed Caracara",
+    "sci": "Daptrius chimachima",
+    "family": "Falconidae",
+    "status": "Review"
+  },
+  {
+    "id": "eurasian-kestrel",
+    "common": "Eurasian Kestrel",
+    "sci": "Falco tinnunculus",
+    "family": "Falconidae",
+    "status": "Review"
+  },
+  {
+    "id": "american-kestrel",
+    "common": "American Kestrel",
+    "sci": "Falco sparverius",
+    "family": "Falconidae"
+  },
+  {
+    "id": "merlin",
+    "common": "Merlin",
+    "sci": "Falco columbarius",
+    "family": "Falconidae"
+  },
+  {
+    "id": "peregrine-falcon",
+    "common": "Peregrine Falcon",
+    "sci": "Falco peregrinus",
+    "family": "Falconidae"
+  },
+  {
+    "id": "monk-parakeet",
+    "common": "Monk Parakeet",
+    "sci": "Myiopsitta monachus",
+    "family": "Psittacidae",
+    "status": "Exotic"
+  },
+  {
+    "id": "carolina-parakeet",
+    "common": "Carolina Parakeet",
+    "sci": "Conuropsis carolinensis",
+    "family": "Psittacidae",
+    "status": "Extinct"
+  },
+  {
+    "id": "nanday-parakeet",
+    "common": "Nanday Parakeet",
+    "sci": "Aratinga nenday",
+    "family": "Psittacidae",
+    "status": "Exotic"
+  },
+  {
+    "id": "mitred-parakeet",
+    "common": "Mitred Parakeet",
+    "sci": "Psittacara mitratus",
+    "family": "Psittacidae",
+    "status": "Exotic"
+  },
+  {
+    "id": "white-winged-parakeet",
+    "common": "White-winged Parakeet",
+    "sci": "Brotogeris versicolurus",
+    "family": "Psittacidae",
+    "status": "Exotic"
+  },
+  {
+    "id": "budgerigar",
+    "common": "Budgerigar",
+    "sci": "Melopsittacus undulatus",
+    "family": "Psittaculidae",
+    "status": "Exotic"
+  },
+  {
+    "id": "ash-throated-flycatcher",
+    "common": "Ash-throated Flycatcher",
+    "sci": "Myiarchus cinerascens",
+    "family": "Tyrannidae"
+  },
+  {
+    "id": "great-crested-flycatcher",
+    "common": "Great Crested Flycatcher",
+    "sci": "Myiarchus crinitus",
+    "family": "Tyrannidae"
+  },
+  {
+    "id": "brown-crested-flycatcher",
+    "common": "Brown-crested Flycatcher",
+    "sci": "Myiarchus tyrannulus",
+    "family": "Tyrannidae"
+  },
+  {
+    "id": "la-sagra-s-flycatcher",
+    "common": "La Sagra's Flycatcher",
+    "sci": "Myiarchus sagrae",
+    "family": "Tyrannidae",
+    "status": "Review"
+  },
+  {
+    "id": "sulphur-bellied-flycatcher",
+    "common": "Sulphur-bellied Flycatcher",
+    "sci": "Myiodynastes luteiventris",
+    "family": "Tyrannidae",
+    "status": "Review"
+  },
+  {
+    "id": "piratic-flycatcher",
+    "common": "Piratic Flycatcher",
+    "sci": "Legatus leucophaius",
+    "family": "Tyrannidae",
+    "status": "Review"
+  },
+  {
+    "id": "variegated-flycatcher",
+    "common": "Variegated Flycatcher",
+    "sci": "Empidonomus varius",
+    "family": "Tyrannidae",
+    "status": "Review"
+  },
+  {
+    "id": "tropical-kingbird",
+    "common": "Tropical Kingbird",
+    "sci": "Tyrannus melancholicus",
+    "family": "Tyrannidae"
+  },
+  {
+    "id": "couch-s-kingbird",
+    "common": "Couch’s Kingbird",
+    "sci": "Tyrannus couchii",
+    "family": "Tyrannidae",
+    "status": "Review"
+  },
+  {
+    "id": "cassin-s-kingbird",
+    "common": "Cassin's Kingbird",
+    "sci": "Tyrannus vociferans",
+    "family": "Tyrannidae",
+    "status": "Review"
+  },
+  {
+    "id": "western-kingbird",
+    "common": "Western Kingbird",
+    "sci": "Tyrannus verticalis",
+    "family": "Tyrannidae"
+  },
+  {
+    "id": "eastern-kingbird",
+    "common": "Eastern Kingbird",
+    "sci": "Tyrannus tyrannus",
+    "family": "Tyrannidae"
+  },
+  {
+    "id": "gray-kingbird",
+    "common": "Gray Kingbird",
+    "sci": "Tyrannus dominicensis",
+    "family": "Tyrannidae"
+  },
+  {
+    "id": "loggerhead-kingbird",
+    "common": "Loggerhead Kingbird",
+    "sci": "Tyrannus caudifasciatus",
+    "family": "Tyrannidae",
+    "status": "Review"
+  },
+  {
+    "id": "scissor-tailed-flycatcher",
+    "common": "Scissor-tailed Flycatcher",
+    "sci": "Tyrannus forficatus",
+    "family": "Tyrannidae"
+  },
+  {
+    "id": "fork-tailed-flycatcher",
+    "common": "Fork-tailed Flycatcher",
+    "sci": "Tyrannus savanna",
+    "family": "Tyrannidae",
+    "status": "Review"
+  },
+  {
+    "id": "olive-sided-flycatcher",
+    "common": "Olive-sided Flycatcher",
+    "sci": "Contopus cooperi",
+    "family": "Tyrannidae"
+  },
+  {
+    "id": "western-wood-pewee",
+    "common": "Western Wood-Pewee",
+    "sci": "Contopus sordidulus",
+    "family": "Tyrannidae",
+    "status": "Review"
+  },
+  {
+    "id": "eastern-wood-pewee",
+    "common": "Eastern Wood-Pewee",
+    "sci": "Contopus virens",
+    "family": "Tyrannidae"
+  },
+  {
+    "id": "cuban-pewee",
+    "common": "Cuban Pewee",
+    "sci": "Contopus caribaeus",
+    "family": "Tyrannidae",
+    "status": "Review"
+  },
+  {
+    "id": "yellow-bellied-flycatcher",
+    "common": "Yellow-bellied Flycatcher",
+    "sci": "Empidonax flaviventris",
+    "family": "Tyrannidae",
+    "status": "Review"
+  },
+  {
+    "id": "acadian-flycatcher",
+    "common": "Acadian Flycatcher",
+    "sci": "Empidonax virescens",
+    "family": "Tyrannidae"
+  },
+  {
+    "id": "alder-flycatcher",
+    "common": "Alder Flycatcher",
+    "sci": "Empidonax alnorum",
+    "family": "Tyrannidae"
+  },
+  {
+    "id": "willow-flycatcher",
+    "common": "Willow Flycatcher",
+    "sci": "Empidonax traillii",
+    "family": "Tyrannidae"
+  },
+  {
+    "id": "least-flycatcher",
+    "common": "Least Flycatcher",
+    "sci": "Empidonax minimus",
+    "family": "Tyrannidae"
+  },
+  {
+    "id": "hammond-s-flycatcher",
+    "common": "Hammond's Flycatcher",
+    "sci": "Empidonax hammondii",
+    "family": "Tyrannidae",
+    "status": "Review"
+  },
+  {
+    "id": "western-flycatcher",
+    "common": "Western Flycatcher",
+    "sci": "Empidonax difficilis",
+    "family": "Tyrannidae",
+    "status": "Review"
+  },
+  {
+    "id": "black-phoebe",
+    "common": "Black Phoebe",
+    "sci": "Sayornis nigricans",
+    "family": "Tyrannidae",
+    "status": "Review"
+  },
+  {
+    "id": "eastern-phoebe",
+    "common": "Eastern Phoebe",
+    "sci": "Sayornis phoebe",
+    "family": "Tyrannidae"
+  },
+  {
+    "id": "say-s-phoebe",
+    "common": "Say's Phoebe",
+    "sci": "Sayornis saya",
+    "family": "Tyrannidae",
+    "status": "Review"
+  },
+  {
+    "id": "vermilion-flycatcher",
+    "common": "Vermilion Flycatcher",
+    "sci": "Pyrocephalus rubinus",
+    "family": "Tyrannidae"
+  },
+  {
+    "id": "white-eyed-vireo",
+    "common": "White-eyed Vireo",
+    "sci": "Vireo griseus",
+    "family": "Vireonidae"
+  },
+  {
+    "id": "thick-billed-vireo",
+    "common": "Thick-billed Vireo",
+    "sci": "Vireo crassirostris",
+    "family": "Vireonidae"
+  },
+  {
+    "id": "cuban-vireo",
+    "common": "Cuban Vireo",
+    "sci": "Vireo gundlachii",
+    "family": "Vireonidae",
+    "status": "Review"
+  },
+  {
+    "id": "bell-s-vireo",
+    "common": "Bell's Vireo",
+    "sci": "Vireo bellii",
+    "family": "Vireonidae"
+  },
+  {
+    "id": "yellow-throated-vireo",
+    "common": "Yellow-throated Vireo",
+    "sci": "Vireo flavifrons",
+    "family": "Vireonidae"
+  },
+  {
+    "id": "blue-headed-vireo",
+    "common": "Blue-headed Vireo",
+    "sci": "Vireo solitarius",
+    "family": "Vireonidae"
+  },
+  {
+    "id": "philadelphia-vireo",
+    "common": "Philadelphia Vireo",
+    "sci": "Vireo philadelphicus",
+    "family": "Vireonidae"
+  },
+  {
+    "id": "warbling-vireo",
+    "common": "Warbling Vireo",
+    "sci": "Vireo gilvus",
+    "family": "Vireonidae"
+  },
+  {
+    "id": "red-eyed-vireo",
+    "common": "Red-eyed Vireo",
+    "sci": "Vireo olivaceus",
+    "family": "Vireonidae"
+  },
+  {
+    "id": "yellow-green-vireo",
+    "common": "Yellow-green Vireo",
+    "sci": "Vireo flavoviridis",
+    "family": "Vireonidae",
+    "status": "Review"
+  },
+  {
+    "id": "black-whiskered-vireo",
+    "common": "Black-whiskered Vireo",
+    "sci": "Vireo altiloquus",
+    "family": "Vireonidae"
+  },
+  {
+    "id": "loggerhead-shrike",
+    "common": "Loggerhead Shrike",
+    "sci": "Lanius ludovicianus",
+    "family": "Laniidae"
+  },
+  {
+    "id": "blue-jay",
+    "common": "Blue Jay",
+    "sci": "Cyanocitta cristata",
+    "family": "Corvidae"
+  },
+  {
+    "id": "florida-scrub-jay",
+    "common": "Florida Scrub-Jay",
+    "sci": "Aphelocoma coerulescens",
+    "family": "Corvidae",
+    "bestSpot": "Ocala NF Scrub"
+  },
+  {
+    "id": "house-crow",
+    "common": "House Crow",
+    "sci": "Corvus splendens",
+    "family": "Corvidae",
+    "status": "Review"
+  },
+  {
+    "id": "american-crow",
+    "common": "American Crow",
+    "sci": "Corvus brachyrhynchos",
+    "family": "Corvidae"
+  },
+  {
+    "id": "fish-crow",
+    "common": "Fish Crow",
+    "sci": "Corvus ossifragus",
+    "family": "Corvidae"
+  },
+  {
+    "id": "carolina-chickadee",
+    "common": "Carolina Chickadee",
+    "sci": "Poecile carolinensis",
+    "family": "Paridae"
+  },
+  {
+    "id": "tufted-titmouse",
+    "common": "Tufted Titmouse",
+    "sci": "Baeolophus bicolor",
+    "family": "Paridae"
+  },
+  {
+    "id": "horned-lark",
+    "common": "Horned Lark",
+    "sci": "Eremophila alpestris",
+    "family": "Alaudidae"
+  },
+  {
+    "id": "bank-swallow",
+    "common": "Bank Swallow",
+    "sci": "Riparia riparia",
+    "family": "Hirundinidae"
+  },
+  {
+    "id": "tree-swallow",
+    "common": "Tree Swallow",
+    "sci": "Tachycineta bicolor",
+    "family": "Hirundinidae"
+  },
+  {
+    "id": "bahama-swallow",
+    "common": "Bahama Swallow",
+    "sci": "Tachycineta cyaneoviridis",
+    "family": "Hirundinidae",
+    "status": "Review"
+  },
+  {
+    "id": "violet-green-swallow",
+    "common": "Violet-green Swallow",
+    "sci": "Tachycineta thalassina",
+    "family": "Hirundinidae",
+    "status": "Review"
+  },
+  {
+    "id": "mangrove-swallow",
+    "common": "Mangrove Swallow",
+    "sci": "Tachycineta albilinea",
+    "family": "Hirundinidae",
+    "status": "Review"
+  },
+  {
+    "id": "purple-martin",
+    "common": "Purple Martin",
+    "sci": "Progne subis",
+    "family": "Hirundinidae"
+  },
+  {
+    "id": "southern-martin",
+    "common": "Southern Martin",
+    "sci": "Progne elegans",
+    "family": "Hirundinidae",
+    "status": "Review"
+  },
+  {
+    "id": "cuban-martin",
+    "common": "Cuban Martin",
+    "sci": "Progne cryptoleuca",
+    "family": "Hirundinidae",
+    "status": "Review"
+  },
+  {
+    "id": "barn-swallow",
+    "common": "Barn Swallow",
+    "sci": "Hirundo rustica",
+    "family": "Hirundinidae"
+  },
+  {
+    "id": "cliff-swallow",
+    "common": "Cliff Swallow",
+    "sci": "Petrochelidon pyrrhonota",
+    "family": "Hirundinidae"
+  },
+  {
+    "id": "cave-swallow",
+    "common": "Cave Swallow",
+    "sci": "Petrochelidon fulva",
+    "family": "Hirundinidae"
+  },
+  {
+    "id": "red-whiskered-bulbul",
+    "common": "Red-whiskered Bulbul",
+    "sci": "Pycnonotus jocosus",
+    "family": "Pycnonotidae",
+    "status": "Exotic"
+  },
+  {
+    "id": "ruby-crowned-kinglet",
+    "common": "Ruby-crowned Kinglet",
+    "sci": "Corthylio calendula",
+    "family": "Regulidae"
+  },
+  {
+    "id": "golden-crowned-kinglet",
+    "common": "Golden-crowned Kinglet",
+    "sci": "Regulus satrapa",
+    "family": "Regulidae"
+  },
+  {
+    "id": "cedar-waxwing",
+    "common": "Cedar Waxwing",
+    "sci": "Bombycilla cedrorum",
+    "family": "Bombycillidae"
+  },
+  {
+    "id": "red-breasted-nuthatch",
+    "common": "Red-breasted Nuthatch",
+    "sci": "Sitta canadensis",
+    "family": "Sittidae"
+  },
+  {
+    "id": "white-breasted-nuthatch",
+    "common": "White-breasted Nuthatch",
+    "sci": "Sitta carolinensis",
+    "family": "Sittidae"
+  },
+  {
+    "id": "brown-headed-nuthatch",
+    "common": "Brown-headed Nuthatch",
+    "sci": "Sitta pusilla",
+    "family": "Sittidae"
+  },
+  {
+    "id": "brown-creeper",
+    "common": "Brown Creeper",
+    "sci": "Certhia americana",
+    "family": "Certhiidae"
+  },
+  {
+    "id": "blue-gray-gnatcatcher",
+    "common": "Blue-gray Gnatcatcher",
+    "sci": "Polioptila caerulea",
+    "family": "Polioptilidae"
+  },
+  {
+    "id": "rock-wren",
+    "common": "Rock Wren",
+    "sci": "Salpinctes obsoletus",
+    "family": "Troglodytidae",
+    "status": "Review"
+  },
+  {
+    "id": "bewick-s-wren",
+    "common": "Bewick's Wren",
+    "sci": "Thryomanes bewickii",
+    "family": "Troglodytidae",
+    "status": "Review"
+  },
+  {
+    "id": "carolina-wren",
+    "common": "Carolina Wren",
+    "sci": "Thryothorus ludovicianus",
+    "family": "Troglodytidae"
+  },
+  {
+    "id": "northern-house-wren",
+    "common": "Northern House Wren",
+    "sci": "Troglodytes aedon",
+    "family": "Troglodytidae"
+  },
+  {
+    "id": "winter-wren",
+    "common": "Winter Wren",
+    "sci": "Troglodytes hiemalis",
+    "family": "Troglodytidae"
+  },
+  {
+    "id": "sedge-wren",
+    "common": "Sedge Wren",
+    "sci": "Cistothorus platensis",
+    "family": "Troglodytidae"
+  },
+  {
+    "id": "marsh-wren",
+    "common": "Marsh Wren",
+    "sci": "Cistothorus palustris",
+    "family": "Troglodytidae"
+  },
+  {
+    "id": "gray-catbird",
+    "common": "Gray Catbird",
+    "sci": "Dumetella carolinensis",
+    "family": "Mimidae"
+  },
+  {
+    "id": "curve-billed-thrasher",
+    "common": "Curve-billed Thrasher",
+    "sci": "Toxostoma curvirostre",
+    "family": "Mimidae",
+    "status": "Review"
+  },
+  {
+    "id": "brown-thrasher",
+    "common": "Brown Thrasher",
+    "sci": "Toxostoma rufum",
+    "family": "Mimidae"
+  },
+  {
+    "id": "sage-thrasher",
+    "common": "Sage Thrasher",
+    "sci": "Oreoscoptes montanus",
+    "family": "Mimidae",
+    "status": "Review"
+  },
+  {
+    "id": "bahama-mockingbird",
+    "common": "Bahama Mockingbird",
+    "sci": "Mimus gundlachii",
+    "family": "Mimidae"
+  },
+  {
+    "id": "northern-mockingbird",
+    "common": "Northern Mockingbird",
+    "sci": "Mimus polyglottos",
+    "family": "Mimidae"
+  },
+  {
+    "id": "european-starling",
+    "common": "European Starling",
+    "sci": "Sturnus vulgaris",
+    "family": "Sturnidae",
+    "status": "Exotic"
+  },
+  {
+    "id": "common-myna",
+    "common": "Common Myna",
+    "sci": "Acridotheres tristis",
+    "family": "Sturnidae",
+    "status": "Exotic"
+  },
+  {
+    "id": "eastern-bluebird",
+    "common": "Eastern Bluebird",
+    "sci": "Sialia sialis",
+    "family": "Turdidae"
+  },
+  {
+    "id": "mountain-bluebird",
+    "common": "Mountain Bluebird",
+    "sci": "Sialia currucoides",
+    "family": "Turdidae",
+    "status": "Review"
+  },
+  {
+    "id": "townsend-s-solitaire",
+    "common": "Townsend's Solitaire",
+    "sci": "Myadestes townsendi",
+    "family": "Turdidae",
+    "status": "Review"
+  },
+  {
+    "id": "veery",
+    "common": "Veery",
+    "sci": "Catharus fuscescens",
+    "family": "Turdidae"
+  },
+  {
+    "id": "gray-cheeked-thrush",
+    "common": "Gray-cheeked Thrush",
+    "sci": "Catharus minimus",
+    "family": "Turdidae"
+  },
+  {
+    "id": "bicknell-s-thrush",
+    "common": "Bicknell's Thrush",
+    "sci": "Catharus bicknelli",
+    "family": "Turdidae",
+    "status": "Review"
+  },
+  {
+    "id": "swainson-s-thrush",
+    "common": "Swainson's Thrush",
+    "sci": "Catharus ustulatus",
+    "family": "Turdidae"
+  },
+  {
+    "id": "hermit-thrush",
+    "common": "Hermit Thrush",
+    "sci": "Catharus guttatus",
+    "family": "Turdidae"
+  },
+  {
+    "id": "wood-thrush",
+    "common": "Wood Thrush",
+    "sci": "Hylocichla mustelina",
+    "family": "Turdidae"
+  },
+  {
+    "id": "american-robin",
+    "common": "American Robin",
+    "sci": "Turdus migratorius",
+    "family": "Turdidae"
+  },
+  {
+    "id": "red-legged-thrush",
+    "common": "Red-legged Thrush",
+    "sci": "Turdus plumbeus",
+    "family": "Turdidae",
+    "status": "Review"
+  },
+  {
+    "id": "varied-thrush",
+    "common": "Varied Thrush",
+    "sci": "Ixoreus naevius",
+    "family": "Turdidae",
+    "status": "Review"
+  },
+  {
+    "id": "european-robin",
+    "common": "European Robin",
+    "sci": "Erithacus rubecula",
+    "family": "Muscicapidae",
+    "status": "Review"
+  },
+  {
+    "id": "northern-wheatear",
+    "common": "Northern Wheatear",
+    "sci": "Oenanthe oenanthe",
+    "family": "Muscicapidae",
+    "status": "Review"
+  },
+  {
+    "id": "scaly-breasted-munia",
+    "common": "Scaly-breasted Munia",
+    "sci": "Lonchura punctulata",
+    "family": "Estrildidae",
+    "status": "Exotic"
+  },
+  {
+    "id": "tricolored-munia",
+    "common": "Tricolored Munia",
+    "sci": "Lonchura malacca",
+    "family": "Estrildidae",
+    "status": "Exotic"
+  },
+  {
+    "id": "house-sparrow",
+    "common": "House Sparrow",
+    "sci": "Passer domesticus",
+    "family": "Passeridae",
+    "status": "Exotic"
+  },
+  {
+    "id": "eastern-yellow-wagtail",
+    "common": "Eastern Yellow Wagtail",
+    "sci": "Moticilla tschutschensis",
+    "family": "Motacillidae",
+    "status": "Review"
+  },
+  {
+    "id": "white-wagtail",
+    "common": "White Wagtail",
+    "sci": "Motacilla alba",
+    "family": "Motacillidae",
+    "status": "Review"
+  },
+  {
+    "id": "american-pipit",
+    "common": "American Pipit",
+    "sci": "Anthus rubescens",
+    "family": "Motacillidae"
+  },
+  {
+    "id": "sprague-s-pipit",
+    "common": "Sprague's Pipit",
+    "sci": "Anthus spragueii",
+    "family": "Motacillidae",
+    "status": "Review"
+  },
+  {
+    "id": "evening-grosbeak",
+    "common": "Evening Grosbeak",
+    "sci": "Coccothraustes vespertinus",
+    "family": "Fringillidae",
+    "status": "Review"
+  },
+  {
+    "id": "house-finch",
+    "common": "House Finch",
+    "sci": "Haemorhous mexicanus",
+    "family": "Fringillidae",
+    "status": "Exotic"
+  },
+  {
+    "id": "purple-finch",
+    "common": "Purple Finch",
+    "sci": "Haemorhous purpureus",
+    "family": "Fringillidae"
+  },
+  {
+    "id": "redpoll",
+    "common": "Redpoll",
+    "sci": "Acanthis flammea",
+    "family": "Fringillidae",
+    "status": "Review"
+  },
+  {
+    "id": "red-crossbill",
+    "common": "Red Crossbill",
+    "sci": "Loxia curvirostra",
+    "family": "Fringillidae",
+    "status": "Review"
+  },
+  {
+    "id": "pine-siskin",
+    "common": "Pine Siskin",
+    "sci": "Spinus pinus",
+    "family": "Fringillidae"
+  },
+  {
+    "id": "lesser-goldfinch",
+    "common": "Lesser Goldfinch",
+    "sci": "Spinus psaltria",
+    "family": "Fringillidae",
+    "status": "Review"
+  },
+  {
+    "id": "american-goldfinch",
+    "common": "American Goldfinch",
+    "sci": "Spinus tristis",
+    "family": "Fringillidae"
+  },
+  {
+    "id": "lapland-longspur",
+    "common": "Lapland Longspur",
+    "sci": "Calcarius lapponicus",
+    "family": "Calcariidae",
+    "status": "Review"
+  },
+  {
+    "id": "chestnut-collared-longspur",
+    "common": "Chestnut-collared Longspur",
+    "sci": "Calcarius ornatus",
+    "family": "Calcariidae",
+    "status": "Review"
+  },
+  {
+    "id": "smith-s-longspur",
+    "common": "Smith’s Longspur",
+    "sci": "Calcarius pictus",
+    "family": "Calcariidae",
+    "status": "Review"
+  },
+  {
+    "id": "snow-bunting",
+    "common": "Snow Bunting",
+    "sci": "Plectrophenax nivalis",
+    "family": "Calcariidae",
+    "status": "Review"
+  },
+  {
+    "id": "bachman-s-sparrow",
+    "common": "Bachman's Sparrow",
+    "sci": "Peucaea aestivalis",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "grasshopper-sparrow",
+    "common": "Grasshopper Sparrow",
+    "sci": "Ammodramus savannarum",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "black-throated-sparrow",
+    "common": "Black-throated Sparrow",
+    "sci": "Amphispiza bilineata",
+    "family": "Passerellidae",
+    "status": "Review"
+  },
+  {
+    "id": "lark-sparrow",
+    "common": "Lark Sparrow",
+    "sci": "Chondestes grammacus",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "lark-bunting",
+    "common": "Lark Bunting",
+    "sci": "Calamospiza melanocorys",
+    "family": "Passerellidae",
+    "status": "Review"
+  },
+  {
+    "id": "chipping-sparrow",
+    "common": "Chipping Sparrow",
+    "sci": "Spizella passerina",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "clay-colored-sparrow",
+    "common": "Clay-colored Sparrow",
+    "sci": "Spizella pallida",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "field-sparrow",
+    "common": "Field Sparrow",
+    "sci": "Spizella pusilla",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "fox-sparrow",
+    "common": "Fox Sparrow",
+    "sci": "Passerella iliaca",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "american-tree-sparrow",
+    "common": "American Tree Sparrow",
+    "sci": "Spizelloides arborea",
+    "family": "Passerellidae",
+    "status": "Review"
+  },
+  {
+    "id": "dark-eyed-junco",
+    "common": "Dark-eyed Junco",
+    "sci": "Junco hyemalis",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "white-crowned-sparrow",
+    "common": "White-crowned Sparrow",
+    "sci": "Zonotrichia leucophrys",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "golden-crowned-sparrow",
+    "common": "Golden-crowned Sparrow",
+    "sci": "Zonotrichia atricapilla",
+    "family": "Passerellidae",
+    "status": "Review"
+  },
+  {
+    "id": "harris-s-sparrow",
+    "common": "Harris's Sparrow",
+    "sci": "Zonotrichia querula",
+    "family": "Passerellidae",
+    "status": "Review"
+  },
+  {
+    "id": "white-throated-sparrow",
+    "common": "White-throated Sparrow",
+    "sci": "Zonotrichia albicollis",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "vesper-sparrow",
+    "common": "Vesper Sparrow",
+    "sci": "Pooecetes gramineus",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "leconte-s-sparrow",
+    "common": "LeConte's Sparrow",
+    "sci": "Ammospiza leconteii",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "seaside-sparrow",
+    "common": "Seaside Sparrow",
+    "sci": "Ammospiza maritimus",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "nelson-s-sparrow",
+    "common": "Nelson's Sparrow",
+    "sci": "Ammospiza nelsoni",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "saltmarsh-sparrow",
+    "common": "Saltmarsh Sparrow",
+    "sci": "Ammospiza caudacutus",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "henslow-s-sparrow",
+    "common": "Henslow's Sparrow",
+    "sci": "Centronyx henslowii",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "savannah-sparrow",
+    "common": "Savannah Sparrow",
+    "sci": "Passerculus sandwichensis",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "song-sparrow",
+    "common": "Song Sparrow",
+    "sci": "Melospiza melodia",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "lincoln-s-sparrow",
+    "common": "Lincoln's Sparrow",
+    "sci": "Melospiza lincolnii",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "swamp-sparrow",
+    "common": "Swamp Sparrow",
+    "sci": "Melospiza georgiana",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "green-tailed-towhee",
+    "common": "Green-tailed Towhee",
+    "sci": "Pipilo chlorurus",
+    "family": "Passerellidae",
+    "status": "Review"
+  },
+  {
+    "id": "spotted-towhee",
+    "common": "Spotted Towhee",
+    "sci": "Pipilo maculatus",
+    "family": "Passerellidae",
+    "status": "Review"
+  },
+  {
+    "id": "eastern-towhee",
+    "common": "Eastern Towhee",
+    "sci": "Pipilo erythrophthalmus",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "western-spindalis",
+    "common": "Western Spindalis",
+    "sci": "Spindalis zena",
+    "family": "Spindalidae"
+  },
+  {
+    "id": "yellow-breasted-chat",
+    "common": "Yellow-breasted Chat",
+    "sci": "Icteria virens",
+    "family": "Icteriidae"
+  },
+  {
+    "id": "yellow-headed-blackbird",
+    "common": "Yellow-headed Blackbird",
+    "sci": "Xanthocephalus xanthocephalus",
+    "family": "Icteridae"
+  },
+  {
+    "id": "bobolink",
+    "common": "Bobolink",
+    "sci": "Dolichonyx oryzivorus",
+    "family": "Icteridae"
+  },
+  {
+    "id": "eastern-meadowlark",
+    "common": "Eastern Meadowlark",
+    "sci": "Sturnella magna",
+    "family": "Icteridae"
+  },
+  {
+    "id": "western-meadowlark",
+    "common": "Western Meadowlark",
+    "sci": "Sturnella neglecta",
+    "family": "Icteridae",
+    "status": "Review"
+  },
+  {
+    "id": "orchard-oriole",
+    "common": "Orchard Oriole",
+    "sci": "Icterus spurius",
+    "family": "Icteridae"
+  },
+  {
+    "id": "hooded-oriole",
+    "common": "Hooded Oriole",
+    "sci": "Icterus cucullatus",
+    "family": "Icteridae",
+    "status": "Review"
+  },
+  {
+    "id": "bullock-s-oriole",
+    "common": "Bullock's Oriole",
+    "sci": "Icterus bullockii",
+    "family": "Icteridae"
+  },
+  {
+    "id": "spot-breasted-oriole",
+    "common": "Spot-breasted Oriole",
+    "sci": "Icterus pectoralis",
+    "family": "Icteridae",
+    "status": "Exotic"
+  },
+  {
+    "id": "baltimore-oriole",
+    "common": "Baltimore Oriole",
+    "sci": "Icterus galbula",
+    "family": "Icteridae"
+  },
+  {
+    "id": "scott-s-oriole",
+    "common": "Scott's Oriole",
+    "sci": "Icterus parisorum",
+    "family": "Icteridae",
+    "status": "Review"
+  },
+  {
+    "id": "red-winged-blackbird",
+    "common": "Red-winged Blackbird",
+    "sci": "Agelaius phoeniceus",
+    "family": "Icteridae"
+  },
+  {
+    "id": "tawny-shouldered-blackbird",
+    "common": "Tawny-shouldered Blackbird",
+    "sci": "Agelaius humeralis",
+    "family": "Icteridae",
+    "status": "Review"
+  },
+  {
+    "id": "shiny-cowbird",
+    "common": "Shiny Cowbird",
+    "sci": "Molothrus bonariensis",
+    "family": "Icteridae"
+  },
+  {
+    "id": "bronzed-cowbird",
+    "common": "Bronzed Cowbird",
+    "sci": "Molothrus aeneus",
+    "family": "Icteridae"
+  },
+  {
+    "id": "brown-headed-cowbird",
+    "common": "Brown-headed Cowbird",
+    "sci": "Molothrus ater",
+    "family": "Icteridae"
+  },
+  {
+    "id": "rusty-blackbird",
+    "common": "Rusty Blackbird",
+    "sci": "Euphagus carolinus",
+    "family": "Icteridae"
+  },
+  {
+    "id": "brewer-s-blackbird",
+    "common": "Brewer's Blackbird",
+    "sci": "Euphagus cyanocephalus",
+    "family": "Icteridae"
+  },
+  {
+    "id": "common-grackle",
+    "common": "Common Grackle",
+    "sci": "Quiscalus quiscula",
+    "family": "Icteridae"
+  },
+  {
+    "id": "boat-tailed-grackle",
+    "common": "Boat-tailed Grackle",
+    "sci": "Quiscalus major",
+    "family": "Icteridae"
+  },
+  {
+    "id": "great-tailed-grackle",
+    "common": "Great-tailed Grackle",
+    "sci": "Quiscalus mexicanus",
+    "family": "Icteridae",
+    "status": "Review"
+  },
+  {
+    "id": "ovenbird",
+    "common": "Ovenbird",
+    "sci": "Seiurus aurocapilla",
+    "family": "Parulidae"
+  },
+  {
+    "id": "worm-eating-warbler",
+    "common": "Worm-eating Warbler",
+    "sci": "Helmitheros vermivorum",
+    "family": "Parulidae"
+  },
+  {
+    "id": "louisiana-waterthrush",
+    "common": "Louisiana Waterthrush",
+    "sci": "Parkesia motacilla",
+    "family": "Parulidae"
+  },
+  {
+    "id": "northern-waterthrush",
+    "common": "Northern Waterthrush",
+    "sci": "Parkesia noveboracenis",
+    "family": "Parulidae"
+  },
+  {
+    "id": "bachman-s-warbler",
+    "common": "Bachman's Warbler",
+    "sci": "Vermivora bachmanii",
+    "family": "Parulidae",
+    "status": "Extinct"
+  },
+  {
+    "id": "golden-winged-warbler",
+    "common": "Golden-winged Warbler",
+    "sci": "Vermivora chrysoptera",
+    "family": "Parulidae"
+  },
+  {
+    "id": "blue-winged-warbler",
+    "common": "Blue-winged Warbler",
+    "sci": "Vermivora cyanoptera",
+    "family": "Parulidae"
+  },
+  {
+    "id": "black-and-white-warbler",
+    "common": "Black-and-white Warbler",
+    "sci": "Mniotilta varia",
+    "family": "Parulidae"
+  },
+  {
+    "id": "prothonotary-warbler",
+    "common": "Prothonotary Warbler",
+    "sci": "Protonotaria citrea",
+    "family": "Parulidae"
+  },
+  {
+    "id": "swainson-s-warbler",
+    "common": "Swainson's Warbler",
+    "sci": "Limnothlypis swainsonii",
+    "family": "Parulidae"
+  },
+  {
+    "id": "tennessee-warbler",
+    "common": "Tennessee Warbler",
+    "sci": "Leiothlypis peregrina",
+    "family": "Parulidae"
+  },
+  {
+    "id": "orange-crowned-warbler",
+    "common": "Orange-crowned Warbler",
+    "sci": "Leiothlypis celata",
+    "family": "Parulidae"
+  },
+  {
+    "id": "nashville-warbler",
+    "common": "Nashville Warbler",
+    "sci": "Leiothlypis ruficapilla",
+    "family": "Parulidae"
+  },
+  {
+    "id": "connecticut-warbler",
+    "common": "Connecticut Warbler",
+    "sci": "Oporornis agilis",
+    "family": "Parulidae"
+  },
+  {
+    "id": "macgillivray-s-warbler",
+    "common": "MacGillivray's Warbler",
+    "sci": "Geothlypis tolmiei",
+    "family": "Parulidae",
+    "status": "Review"
+  },
+  {
+    "id": "kentucky-warbler",
+    "common": "Kentucky Warbler",
+    "sci": "Geothlypis formosa",
+    "family": "Parulidae"
+  },
+  {
+    "id": "common-yellowthroat",
+    "common": "Common Yellowthroat",
+    "sci": "Geothlypis trichas",
+    "family": "Parulidae"
+  },
+  {
+    "id": "hooded-warbler",
+    "common": "Hooded Warbler",
+    "sci": "Setophaga citrina",
+    "family": "Parulidae"
+  },
+  {
+    "id": "american-redstart",
+    "common": "American Redstart",
+    "sci": "Setophaga ruticilla",
+    "family": "Parulidae"
+  },
+  {
+    "id": "kirtland-s-warbler",
+    "common": "Kirtland's Warbler",
+    "sci": "Setophaga kirtlandii",
+    "family": "Parulidae",
+    "status": "Review"
+  },
+  {
+    "id": "cape-may-warbler",
+    "common": "Cape May Warbler",
+    "sci": "Setophaga tigrina",
+    "family": "Parulidae"
+  },
+  {
+    "id": "cerulean-warbler",
+    "common": "Cerulean Warbler",
+    "sci": "Setophaga cerulea",
+    "family": "Parulidae"
+  },
+  {
+    "id": "northern-parula",
+    "common": "Northern Parula",
+    "sci": "Setophaga americana",
+    "family": "Parulidae"
+  },
+  {
+    "id": "magnolia-warbler",
+    "common": "Magnolia Warbler",
+    "sci": "Setophaga magnolia",
+    "family": "Parulidae"
+  },
+  {
+    "id": "bay-breasted-warbler",
+    "common": "Bay-breasted Warbler",
+    "sci": "Setophaga castanea",
+    "family": "Parulidae"
+  },
+  {
+    "id": "blackburnian-warbler",
+    "common": "Blackburnian Warbler",
+    "sci": "Setophaga fusca",
+    "family": "Parulidae"
+  },
+  {
+    "id": "yellow-warbler",
+    "common": "Yellow Warbler",
+    "sci": "Setophaga petechia",
+    "family": "Parulidae"
+  },
+  {
+    "id": "chestnut-sided-warbler",
+    "common": "Chestnut-sided Warbler",
+    "sci": "Setophaga pensylvanica",
+    "family": "Parulidae"
+  },
+  {
+    "id": "blackpoll-warbler",
+    "common": "Blackpoll Warbler",
+    "sci": "Setophaga striata",
+    "family": "Parulidae"
+  },
+  {
+    "id": "black-throated-blue-warbler",
+    "common": "Black-throated Blue Warbler",
+    "sci": "Setophaga caerulescens",
+    "family": "Parulidae"
+  },
+  {
+    "id": "palm-warbler",
+    "common": "Palm Warbler",
+    "sci": "Setophaga palmarum",
+    "family": "Parulidae"
+  },
+  {
+    "id": "pine-warbler",
+    "common": "Pine Warbler",
+    "sci": "Setophaga pinus",
+    "family": "Parulidae"
+  },
+  {
+    "id": "yellow-rumped-warbler",
+    "common": "Yellow-rumped Warbler",
+    "sci": "Setophaga coronata",
+    "family": "Parulidae"
+  },
+  {
+    "id": "yellow-throated-warbler",
+    "common": "Yellow-throated Warbler",
+    "sci": "Setophaga dominica",
+    "family": "Parulidae"
+  },
+  {
+    "id": "prairie-warbler",
+    "common": "Prairie Warbler",
+    "sci": "Setophaga discolor",
+    "family": "Parulidae"
+  },
+  {
+    "id": "black-throated-gray-warbler",
+    "common": "Black-throated Gray Warbler",
+    "sci": "Setophaga nigrescens",
+    "family": "Parulidae",
+    "status": "Review"
+  },
+  {
+    "id": "townsend-s-warbler",
+    "common": "Townsend's Warbler",
+    "sci": "Setophaga townsendi",
+    "family": "Parulidae",
+    "status": "Review"
+  },
+  {
+    "id": "hermit-warbler",
+    "common": "Hermit Warbler",
+    "sci": "Setophaga occidentalis",
+    "family": "Parulidae",
+    "status": "Review"
+  },
+  {
+    "id": "golden-cheeked-warbler",
+    "common": "Golden-cheeked Warbler",
+    "sci": "Setophaga chrysoparia",
+    "family": "Parulidae",
+    "status": "Review"
+  },
+  {
+    "id": "black-throated-green-warbler",
+    "common": "Black-throated Green Warbler",
+    "sci": "Setophaga virens",
+    "family": "Parulidae"
+  },
+  {
+    "id": "canada-warbler",
+    "common": "Canada Warbler",
+    "sci": "Cardellina canadensis",
+    "family": "Parulidae"
+  },
+  {
+    "id": "wilson-s-warbler",
+    "common": "Wilson's Warbler",
+    "sci": "Cardellina pusilla",
+    "family": "Parulidae"
+  },
+  {
+    "id": "summer-tanager",
+    "common": "Summer Tanager",
+    "sci": "Piranga rubra",
+    "family": "Cardinalidae"
+  },
+  {
+    "id": "scarlet-tanager",
+    "common": "Scarlet Tanager",
+    "sci": "Piranga olivacea",
+    "family": "Cardinalidae"
+  },
+  {
+    "id": "western-tanager",
+    "common": "Western Tanager",
+    "sci": "Piranga ludoviciana",
+    "family": "Cardinalidae"
+  },
+  {
+    "id": "northern-cardinal",
+    "common": "Northern Cardinal",
+    "sci": "Cardinalis cardinalis",
+    "family": "Cardinalidae"
+  },
+  {
+    "id": "rose-breasted-grosbeak",
+    "common": "Rose-breasted Grosbeak",
+    "sci": "Pheucticus ludovicianus",
+    "family": "Cardinalidae"
+  },
+  {
+    "id": "black-headed-grosbeak",
+    "common": "Black-headed Grosbeak",
+    "sci": "Pheucticus melanocephalus",
+    "family": "Cardinalidae",
+    "status": "Review"
+  },
+  {
+    "id": "blue-grosbeak",
+    "common": "Blue Grosbeak",
+    "sci": "Passerina caerulea",
+    "family": "Cardinalidae"
+  },
+  {
+    "id": "lazuli-bunting",
+    "common": "Lazuli Bunting",
+    "sci": "Passerina amoena",
+    "family": "Cardinalidae",
+    "status": "Review"
+  },
+  {
+    "id": "indigo-bunting",
+    "common": "Indigo Bunting",
+    "sci": "Passerina cyanea",
+    "family": "Cardinalidae"
+  },
+  {
+    "id": "varied-bunting",
+    "common": "Varied Bunting",
+    "sci": "Passerina versicolor",
+    "family": "Cardinalidae",
+    "status": "Review"
+  },
+  {
+    "id": "painted-bunting",
+    "common": "Painted Bunting",
+    "sci": "Passerina ciris",
+    "family": "Cardinalidae"
+  },
+  {
+    "id": "dickcissel",
+    "common": "Dickcissel",
+    "sci": "Spiza americana",
+    "family": "Cardinalidae"
+  },
+  {
+    "id": "red-legged-honeycreeper",
+    "common": "Red-legged Honeycreeper",
+    "sci": "Cyanerpes cyaneus",
+    "family": "Thraupidae",
+    "status": "Review"
+  },
+  {
+    "id": "bananaquit",
+    "common": "Bananaquit",
+    "sci": "Coereba flaveola",
+    "family": "Thraupidae",
+    "status": "Review"
+  },
+  {
+    "id": "yellow-faced-grassquit",
+    "common": "Yellow-faced Grassquit",
+    "sci": "Tiaris olivaceus",
+    "family": "Thraupidae",
+    "status": "Review"
+  },
+  {
+    "id": "black-faced-grassquit",
+    "common": "Black-faced Grassquit",
+    "sci": "Tiaris bicolor",
+    "family": "Thraupidae",
+    "status": "Review"
+  }
+]
