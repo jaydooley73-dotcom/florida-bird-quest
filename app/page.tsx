@@ -132,10 +132,35 @@ export default function Page() {
   if (route === "detail" && active) {
     return (
       <main className="min-h-screen bg-gradient-to-b from-slate-50 to-slate-100 p-4">
-        <div className="mx-auto max-w-md space-y-3">
+                <div className="mx-auto max-w-md space-y-3">
           <div className="flex items-start justify-between gap-3">
             <div>
-              <h1 className="text-xl font-semibold">Florida Bird Quest</h1>
+<div className="flex items-start justify-between gap-3">
+  <div className="flex items-center gap-3">
+    <img
+      src="/logo.png"
+      alt="Florida Bird Quest Logo"
+      className="h-12 w-12 object-contain"
+    />
+    <div>
+      <h1 className="text-xl font-semibold">Florida Bird Quest</h1>
+      <div className="text-sm text-slate-600">{active.common}</div>
+      <div className="text-xs text-slate-500">
+        {active.sci} • {active.family}
+      </div>
+    </div>
+  </div>
+
+  <button
+    className="rounded-2xl border px-3 py-2 text-sm"
+    onClick={() => setRoute("list")}
+  >
+    Back
+  </button>
+</div>
+
+
+
               <div className="text-sm text-slate-600">{active.common}</div>
               <div className="text-xs text-slate-500">{active.sci} • {active.family}</div>
             </div>
@@ -195,7 +220,17 @@ export default function Page() {
         <div className="mx-auto max-w-md space-y-3">
           <div className="flex items-start justify-between gap-3">
             <div>
-              <h1 className="text-xl font-semibold">Florida Bird Quest</h1>
+              <div className="flex items-center gap-3">
+  <img
+    src="/logo.png"
+    alt="Florida Bird Quest Logo"
+    className="h-12 w-12 object-contain"
+  />
+  <div>
+    <h1 className="text-xl font-semibold">Florida Bird Quest</h1>
+  </div>
+</div>
+
               <div className="text-sm text-slate-600">Session Logs (demo)</div>
             </div>
             <button className="rounded-2xl border px-3 py-2 text-sm" onClick={() => setRoute("home")}>Back</button>
@@ -227,7 +262,17 @@ export default function Page() {
         <div className="mx-auto max-w-md space-y-3">
           <div className="flex items-start justify-between gap-3">
             <div>
-              <h1 className="text-xl font-semibold">Florida Bird Quest</h1>
+              <div className="flex items-center gap-3">
+  <img
+    src="/logo.png"
+    alt="Florida Bird Quest Logo"
+    className="h-12 w-12 object-contain"
+  />
+  <div>
+    <h1 className="text-xl font-semibold">Florida Bird Quest</h1>
+  </div>
+</div>
+
               <div className="text-sm text-slate-600">Targets • Month: {filters.month} • Showing {filtered.length}</div>
             </div>
             <button className="rounded-2xl border px-3 py-2 text-sm" onClick={() => setRoute("home")}>Back</button>
@@ -305,12 +350,20 @@ export default function Page() {
   // HOME
   return (
     <main className="min-h-screen bg-gradient-to-b from-slate-50 to-slate-100 p-4">
-      <div className="mx-auto max-w-md space-y-3">
+            <div className="mx-auto max-w-md space-y-3">
         <div className="flex items-start justify-between">
-          <div>
-            <h1 className="text-xl font-semibold">Florida Bird Quest</h1>
-            <div className="text-sm text-slate-600">Life list • Targets • Logs</div>
-          </div>
+          <div className="flex items-center gap-3">
+  <img
+    src="/logo.png"
+    alt="Florida Bird Quest Logo"
+    className="h-12 w-12 object-contain"
+  />
+  <div>
+    <h1 className="text-xl font-semibold">Florida Bird Quest</h1>
+    <div className="text-sm text-slate-600">Life list • Targets • Logs</div>
+  </div>
+</div>
+
           <span className="rounded-full border px-3 py-1 text-xs">Web Demo</span>
         </div>
 
